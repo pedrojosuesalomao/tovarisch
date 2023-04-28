@@ -1,0 +1,53 @@
+body{
+    margin: 0%;
+    padding: 0%;
+
+}
+
+
+.corpo{
+    height: 40rem;
+max-height:900rem;
+    width: 100%;
+    margin: 0px auto;
+    padding: 20px;
+    background-color: rgba(221, 16, 16, 0.699);
+
+}
+
+#pesquisa{
+    width: 24rem;
+  max-height: 200rem;
+    height: 4rem;
+    border-radius: 2rem;
+    margin: 0px auto;
+    padding: 20px;
+
+
+
+    
+        display: block;
+        margin: auto;
+        position: absolute;
+        top: 60%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      }
+      
+
+.meio{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#lenin{
+ 
+        display: block;
+        margin: auto;
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      }
+      
